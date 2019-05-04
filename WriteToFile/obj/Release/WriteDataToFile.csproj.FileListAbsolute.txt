@@ -1,0 +1,4 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WriteToFile\bin\Release\WriteDataToFileLib.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WriteToFile\bin\Release\WriteDataToFileLib.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WriteToFile\obj\Release\WriteDataToFileLib.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WriteToFile\obj\Release\WriteDataToFileLib.pdb

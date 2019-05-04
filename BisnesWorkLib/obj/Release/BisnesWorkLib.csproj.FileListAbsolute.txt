@@ -1,0 +1,10 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\bin\Release\BisnesWorkLib.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\bin\Release\BisnesWorkLib.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\bin\Release\Devices.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\bin\Release\WriteDataToFileLib.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\bin\Release\Devices.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\bin\Release\WriteDataToFileLib.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\obj\Release\BisnesWorkLib.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\obj\Release\BisnesWorkLib.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\obj\Release\BisnesWorkLib.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\BisnesWorkLib\obj\Release\BisnesWorkLib.csproj.ResolveComReference.cache

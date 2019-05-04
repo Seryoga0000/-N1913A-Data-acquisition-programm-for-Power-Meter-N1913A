@@ -1,0 +1,5 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\bin\Release\Devices.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\bin\Release\Devices.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\obj\Release\Devices.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\obj\Release\Devices.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\obj\Release\Devices.csprojResolveAssemblyReference.cache

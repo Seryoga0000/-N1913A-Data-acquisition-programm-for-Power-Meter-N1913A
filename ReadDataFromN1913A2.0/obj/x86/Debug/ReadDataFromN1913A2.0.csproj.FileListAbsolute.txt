@@ -1,0 +1,11 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\bin\Debug\ReadDataFromN1913A2.0.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\bin\Debug\ReadDataFromN1913A2.0.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\bin\Debug\ReadDataFromN1913A2.0.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\obj\x86\Debug\ReadDataFromN1913A2.0.csproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\obj\x86\Debug\ReadDataFromN1913A2.0.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\obj\x86\Debug\ReadDataFromN1913A2.0.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\obj\x86\Debug\ReadDataFromN1913A2.0.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\obj\x86\Debug\DevicesLib.Form1.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\obj\x86\Debug\DevicesLib.PMainForm.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\obj\x86\Debug\DevicesLib.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\ReadDataFromN1913A2.0\obj\x86\Debug\DevicesLib.Setting.resources

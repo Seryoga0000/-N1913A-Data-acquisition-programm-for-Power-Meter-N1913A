@@ -1,0 +1,5 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WindowsFormsApplication1\obj\x86\Release\ReadDataFromN1913A.PMainForm.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WindowsFormsApplication1\obj\x86\Release\ReadDataFromN1913A.Setting.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache

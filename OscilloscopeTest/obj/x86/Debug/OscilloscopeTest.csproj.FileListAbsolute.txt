@@ -1,0 +1,10 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\bin\Debug\OscilloscopeTest.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\bin\Debug\OscilloscopeTest.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\bin\Debug\Devices.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\bin\Debug\Devices.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\obj\x86\Debug\OscilloscopeTest.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\obj\x86\Debug\OscilloscopeTest.Form1.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\obj\x86\Debug\OscilloscopeTest.Properties.Resources.resources
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\obj\x86\Debug\OscilloscopeTest.csproj.GenerateResource.Cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\obj\x86\Debug\OscilloscopeTest.exe
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\OscilloscopeTest\obj\x86\Debug\OscilloscopeTest.pdb

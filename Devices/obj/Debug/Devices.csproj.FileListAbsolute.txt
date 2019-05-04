@@ -1,0 +1,7 @@
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\bin\Debug\Devices.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\bin\Debug\Devices.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\obj\Debug\Devices.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\obj\Debug\Devices.pdb
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\obj\Debug\Interop.TVCLib.dll
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\obj\Debug\Devices.csproj.ResolveComReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2010\Projects\ReadDataFromN1913A\Devices\obj\Debug\Devices.csprojResolveAssemblyReference.cache
